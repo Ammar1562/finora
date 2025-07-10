@@ -1,1 +1,2 @@
-# finora
+# Finora - Premium Accounting System
+
